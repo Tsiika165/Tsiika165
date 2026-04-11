@@ -37,8 +37,7 @@ SQL • Data visualization (basic)
 
 ## 🚀 Projects
 
-### 🏫 Sekgutlong School Website & Management System  
-🔗 https://github.com/Tsiika165/sekgutlong-school-website  
+### 🏫 [Sekgutlong School Website & Management System](https://github.com/Tsiika165/sekgutlong-school-website)
 
 A full-stack system designed for real-world school use.
 
@@ -48,23 +47,23 @@ A full-stack system designed for real-world school use.
 
 ---
 
-### 📚 Constitutional Archive Data Management System  
-🔗 https://github.com/Tsiika165/Constitutional-Archive-Data-Management  
+### 📚 [Constitutional Archive Data Management & Search Interface](https://github.com/Heisenburg-z/Constitutional-Archive-Data-Management-and-Search-Interface)
 
-A platform for uploading and searching constitutional documents.
+A full-stack platform for managing and querying constitutional documents.
 
-- File management system  
-- Natural language search  
-- RESTful API  
+- File upload and management system  
+- Natural language search interface  
+- RESTful API architecture  
 
 ---
 
-### 📡 SignalSense  
-🔗 https://github.com/Tsiika165/SignalSense  
+### 📡 [SignalSense](https://github.com/NsovoNkunaSA/SignalSense)
 
 Application for analyzing and visualizing signal data.
 
----
+- Signal data processing  
+- Data visualization  
+- Analytical insights  
 
 ## 🌱 Currently Learning
 
