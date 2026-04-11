@@ -45,25 +45,31 @@ A full-stack system designed for real-world school use.
 - Staff submission and approval workflow  
 - Public-facing school platform  
 
+**Role:** Sole Developer — designed, built, and implemented the entire system end-to-end  
+
 ---
 
 ### 📚 [Constitutional Archive Data Management & Search Interface](https://github.com/Heisenburg-z/Constitutional-Archive-Data-Management-and-Search-Interface)
 
-A full-stack platform for managing and querying constitutional documents.
+A collaborative full-stack platform for managing and querying constitutional documents.
 
 - File upload and management system  
 - Natural language search interface  
 - RESTful API architecture  
 
+**Role:** Contributor — worked on backend, API design, and system features  
+
 ---
 
 ### 📡 [SignalSense](https://github.com/NsovoNkunaSA/SignalSense)
 
-Application for analyzing and visualizing signal data.
+A collaborative application for analyzing and visualizing signal data.
 
 - Signal data processing  
 - Data visualization  
 - Analytical insights  
+
+**Role:** Contributor — participated in development and implementation of features   
 
 ## 🌱 Currently Learning
 
