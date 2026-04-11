@@ -57,7 +57,7 @@ A collaborative full-stack platform for managing and querying constitutional doc
 - Natural language search interface  
 - RESTful API architecture  
 
-**Role:** Contributor — worked on backend, API design, and system features  
+**Role:** Contributor — worked on system features and led project documentation, including structuring technical documentation and user-facing materials  
 
 ---
 
