@@ -1,21 +1,23 @@
 # 👋 Hi, I'm Tsietsi Mofokeng
 
 <p align="center">
-  💻 BSc Computer Science & Information Systems Student <br/>
-  🚀 Building practical systems, modern web applications, and data-driven solutions
+  💻 Final-Year BSc Computer Science & Information Systems Student at Wits University <br/>
+  🚀 Full-Stack Developer & Systems/Business Analyst Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science and Information Systems student with experience in:
+I am a Computer Science and Information Systems student passionate about building **scalable, real-world applications** and understanding how systems solve real business problems.
 
-- Software development  
-- System administration  
+I have experience in:
+- Full-stack web development  
+- System design and analysis  
+- Requirements gathering and documentation  
 - Cloud-based systems  
 
-I enjoy building **real-world applications** that solve meaningful problems, while learning how scalable systems are designed and maintained.
+I enjoy working across both technical and analytical aspects of systems — from **understanding user needs** to **building complete solutions**.
 
 ---
 
@@ -30,8 +32,8 @@ React • Node.js • Express • Tailwind CSS • Firebase • Git
 **Cloud & Systems**  
 Microsoft Azure • Linux • REST APIs  
 
-**Data & Analytics**  
-SQL • Data visualization (basic)  
+**Analysis & Design**  
+Requirements Gathering • UML Diagrams • System Documentation • Testing  
 
 ---
 
@@ -39,37 +41,56 @@ SQL • Data visualization (basic)
 
 ### 🏫 [Sekgutlong School Website & Management System](https://github.com/Tsiika165/sekgutlong-school-website)
 
-A full-stack system designed for real-world school use.
+A real-world full-stack system designed for school operations.  
 
-- Admin dashboard with CRUD functionality  
-- Staff submission and approval workflow  
-- Public-facing school platform  
+🔗 **Live Demo:** https://sekgutlong.vercel.app  
 
-**Role:** Sole Developer — designed, built, and implemented the entire system end-to-end  
+- Built an admin dashboard with full CRUD functionality  
+- Implemented staff submission and approval workflow  
+- Developed a public-facing school platform  
+
+**Role:** Sole Developer — designed and built the system end-to-end  
+
+Presented to school leadership; positive feedback received and adoption under consideration.
 
 ---
 
 ### 📚 [Constitutional Archive Data Management & Search Interface](https://github.com/Heisenburg-z/Constitutional-Archive-Data-Management-and-Search-Interface)
 
-A collaborative full-stack platform for managing and querying constitutional documents.
+A collaborative platform for managing and querying constitutional documents.  
 
-- File upload and management system  
-- Natural language search interface  
-- RESTful API architecture  
+- Engaged in gathering and defining system requirements  
+- Translated user needs into structured system specifications  
+- Created UML diagrams to model system behavior and architecture  
+- Contributed to testing and validation of system features  
 
-**Role:** Contributor — worked on system features and led project documentation, including structuring technical documentation and user-facing materials  
+**Role:** Contributor — focused on requirements analysis, documentation, UML design, and testing  
+
+---
+
+### 📊 [Student Results Management System](https://github.com/Tsiika165/student-results-system)
+
+A full-stack application for managing student academic results.  
+
+- Built REST API using Express and integrated Supabase (PostgreSQL)  
+- Designed relational database (students, subjects, results)  
+- Implemented full CRUD operations  
+- Developed React frontend with dropdowns and inline editing  
 
 ---
 
 ### 📡 [SignalSense](https://github.com/NsovoNkunaSA/SignalSense)
 
-A collaborative application for analyzing and visualizing signal data.
+A collaborative application for signal data analysis.  
 
-- Signal data processing  
-- Data visualization  
-- Analytical insights  
+- Built UI components for data visualization  
+- Integrated mock datasets into frontend views  
+- Worked on signal data processing and visualization features  
+- Contributed to frontend components and data handling logic  
 
-**Role:** Contributor — participated in development and implementation of features   
+**Role:** Contributor — involved in feature implementation and frontend development  
+
+---
 
 ## 🌱 Currently Learning
 
@@ -79,11 +100,11 @@ A collaborative application for analyzing and visualizing signal data.
 
 ---
 
-## 🎯 What I’m Working Towards
+## 🎯 Career Focus
 
 - Building scalable backend systems  
 - Designing production-ready applications  
-- Deploying real-world solutions  
+- Translating business requirements into technical solutions  
 
 ---
 
