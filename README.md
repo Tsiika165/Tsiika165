@@ -111,7 +111,7 @@ A collaborative application for signal data analysis.
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Tsiika165  
-- LinkedIn: https://www.linkedin.com/in/tsietsi-tshabalala-a4bb55333  
+- LinkedIn: https://www.linkedin.com/in/tsietsi-mofokeng  
 
 ---
 
